@@ -46,6 +46,8 @@ This will be replaced with the color name setup at the top and the image will be
 
 The color is applyed with a multiply.
 
+Any lines without the color tag "<#>" will still be unstitched but not colored.
+
 Example:
 
 3.5=Red Icon <#>

@@ -46,7 +46,8 @@ This will be replaced with the color name setup at the top and the image will be
 
 The color is applyed with a multiply.
 
-Any lines without the color tag "<#>" will still be unstitched but not colored.
+Any lines without the color tag "<#>" will still be unstitched but the name will not update.
+These icons will be whatever color is last in the list. 
 
 Example:
 
